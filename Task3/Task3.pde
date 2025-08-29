@@ -1,7 +1,7 @@
 void setup(){
 String address;
-int math=3+4;
-int mathDiv=8/2;
+int sum;
+int sumDiv
 String besked="Læg dig ned";
 //println(besked);
 }
